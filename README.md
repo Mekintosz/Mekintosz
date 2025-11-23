@@ -1,5 +1,7 @@
 Frontend Developer
 
+PL <img src="https://flagcdn.com/pl.svg" width="20" />
+
 ### O mnie
 Frontend developer skupiony nad funkcjonalnymi interfejsami, prostą architektrą i " ładnym" frontem.
 
@@ -7,8 +9,8 @@ Frontend developer skupiony nad funkcjonalnymi interfejsami, prostą architektr�
 TypeScript, JavaScript, React, Vanilla, Next.js, Tailwind CSS, SCSS, Git
 
 ### Obecnie pracuję nad
-- SPA z funkconalnościami AI
-- Reactowym sklepem jubilerskim
+- SPA z funkconalnościami AI "Morphed"
+- Reactowym sklepem jubilerskim "Mistyk"
 
 ### Współpraca
 Otwarty na projekty React/TypeScript, projektowanie i inżynierię UI oraz kontrybucje open-source.
@@ -18,14 +20,15 @@ GitHub: github.com/Mekintosz
 Portfolio: mlazicki.pl
 
 <br/>
-EN
+
+EN <img src="https://flagcdn.com/gb.svg" width="20" />
 
 ### About
 Frontend developer focused on performant interfaces, modern tooling, and clean architecture.
 
 ### Currently Working On
-- Landing page with AI features
-- React Jewellery e-shop 
+- Landing page with AI features "Morphed"
+- React Jewellery shop "Mistyk"
 
 ### Collaboration
 Open to React/TypeScript projects, UI design and engineering, and open-source contributions.
