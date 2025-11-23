@@ -19,7 +19,7 @@ GitHub: github.com/Mekintosz
 Portfolio: mlazicki.pl
 
 <br/>
-English version:
+EN
 
 ### About
 Frontend developer focused on performant interfaces, modern tooling, and clean architecture.
