@@ -13,14 +13,9 @@ TypeScript, JavaScript, React, Vanilla, Next.js, Tailwind CSS, SCSS, Git
 ### Współpraca
 Otwarty na projekty React/TypeScript, projektowanie i inżynierię UI oraz kontrybucje open-source.
 
-### Kontakt
-GitHub: github.com/Mekintosz
-Portfolio: mlazicki.pl
-E-mail: contact@mlazicki.pl
-
 <br/>
 
-### About en <img src="https://flagcdn.com/gb.svg" width="20" />
+### About / en <img src="https://flagcdn.com/gb.svg" width="20" />
 Frontend developer focused on performant interfaces, modern tooling, and clean architecture.
 
 ### Currently Working On
@@ -29,4 +24,9 @@ Frontend developer focused on performant interfaces, modern tooling, and clean a
 
 ### Collaboration
 Open to React/TypeScript projects, UI design and engineering, and open-source contributions.
+
+### Kontakt
+GitHub: github.com/Mekintosz<br/>
+Portfolio: mlazicki.pl<br/>
+E-mail: contact@mlazicki.pl<br/>
 
