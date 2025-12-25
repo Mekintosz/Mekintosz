@@ -25,6 +25,8 @@ Frontend developer focused on performant interfaces, modern tooling, and clean a
 ### Collaboration
 Open to React/TypeScript projects, UI design and engineering, and open-source contributions.
 
+<br/>
+
 ### Kontakt
 GitHub: github.com/Mekintosz<br/>
 Portfolio: mlazicki.pl<br/>
