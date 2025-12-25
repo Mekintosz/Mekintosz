@@ -1,4 +1,4 @@
-Frontend Developer
+## Front-end developer
 
 ### O mnie / pl <img src="https://flagcdn.com/pl.svg" width="20" />
 Frontend developer skupiony nad funkcjonalnymi interfejsami, prostą architektrą i " ładnym" frontem.
