@@ -20,7 +20,7 @@ Frontend developer focused on performant interfaces, modern tooling, and clean a
 
 ### Currently Working On
 - Landing page with AI features "Morphed"
-- React Jewellery shop "Mistyk"
+- React Jewellery shop "Jewells"
 
 ### Collaboration
 Open to React/TypeScript projects, UI design and engineering, and open-source contributions.
