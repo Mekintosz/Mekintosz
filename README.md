@@ -1,14 +1,14 @@
 ## Front-end developer
 
 ### O mnie / pl <img src="https://flagcdn.com/pl.svg" width="20" />
-Frontend developer skupiony nad funkcjonalnymi interfejsami, prostą architektrą i " ładnym" frontem.
+Frontend developer skupiony nad funkcjonalnymi interfejsami i prostą architektrą.
 
-### Technologia
-TypeScript, JavaScript, React, Vanilla, Next.js, Tailwind CSS, SCSS, Git
+### Technologie
+JavaScript, TypeScript, React, Vanilla, Tailwind CSS, SCSS, Git
 
 ### Obecnie pracuję nad
-- SPA z funkconalnościami AI "Morphed"
-- Reactowym sklepem jubilerskim "Jewells"
+- Vanila Notes - prosta frontendowa **apka do notatek** bstworzona z **vanilla JavaScript**
+- Reactowym sklepem jubilerskim **"Jewells"**
 
 ### Współpraca
 Otwarty na projekty React/TypeScript, projektowanie i inżynierię UI oraz kontrybucje open-source.
@@ -19,7 +19,7 @@ Otwarty na projekty React/TypeScript, projektowanie i inżynierię UI oraz kontr
 Frontend developer focused on performant interfaces, modern tooling, and clean architecture.
 
 ### Currently Working On
-- Landing page with AI features "Morphed"
+- anila Notes - a simple client-side **Notes app** built with **vanilla JavaScript**
 - React Jewellery shop "Jewells"
 
 ### Collaboration
