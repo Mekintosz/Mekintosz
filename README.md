@@ -1,11 +1,5 @@
 ## Front-end Developer
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Mekintosz&color=blue&style=flat-square)
-
-</div>
-
 ### O mnie / pl <img src="https://flagcdn.com/pl.svg" width="20" />
 Frontend developer specjalizujący się w tworzeniu funkcjonalnych interfejsów użytkownika oraz projektowaniu czystej, skalowalnej architektury aplikacji.
 
@@ -40,18 +34,3 @@ Open to collaborating on React/TypeScript projects, UI/UX design and engineering
 **GitHub:** [github.com/Mekintosz](https://github.com/Mekintosz)  
 **Portfolio:** [mlazicki.pl](https://mlazicki.pl)  
 **E-mail:** contact@mlazicki.pl
-
-<br/>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mekintosz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekintosz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mekintosz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
