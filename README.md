@@ -1,34 +1,57 @@
-## Front-end developer
+## Front-end Developer
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Mekintosz&color=blue&style=flat-square)
+
+</div>
 
 ### O mnie / pl <img src="https://flagcdn.com/pl.svg" width="20" />
-Frontend developer skupiony nad funkcjonalnymi interfejsami i prostą architektrą.
+Frontend developer specjalizujący się w tworzeniu funkcjonalnych interfejsów użytkownika oraz projektowaniu czystej, skalowalnej architektury aplikacji.
 
-### Technologie
-JavaScript, TypeScript, React, Vanilla, Tailwind CSS, SCSS, Git
+### Stack technologiczny
+JavaScript • TypeScript • React • Vanilla JS • Tailwind CSS • SCSS • Git
 
-### Obecnie pracuję nad
-- Vanila Notes - prosta frontendowa **apka do notatek** bstworzona z **vanilla JavaScript**
-- Reactowym sklepem jubilerskim **"Jewells"**
+### Aktualnie pracuję nad
+- **Vanilla Notes** – minimalistyczna aplikacja do notatek zbudowana w czystym JavaScript
+- **Jewells** – sklep internetowy z biżuterią stworzony w React
 
 ### Współpraca
-Otwarty na projekty React/TypeScript, projektowanie i inżynierię UI oraz kontrybucje open-source.
+Otwarty na współpracę przy projektach wykorzystujących React i TypeScript, projektowanie i rozwój interfejsów użytkownika oraz kontrybucje do projektów open-source.
 
 <br/>
 
 ### About / en <img src="https://flagcdn.com/gb.svg" width="20" />
-Frontend developer focused on performant interfaces, modern tooling, and clean architecture.
+Frontend developer specialising in building performant user interfaces with modern tooling and clean, scalable architecture.
+
+### Tech Stack
+JavaScript • TypeScript • React • Vanilla JS • Tailwind CSS • SCSS • Git
 
 ### Currently Working On
-- anila Notes - a simple client-side **Notes app** built with **vanilla JavaScript**
-- React Jewellery shop "Jewells"
+- **Vanilla Notes** – a minimalist notes app built with vanilla JavaScript
+- **Jewells** – a React-based jewellery e-commerce store
 
 ### Collaboration
-Open to React/TypeScript projects, UI design and engineering, and open-source contributions.
+Open to collaborating on React/TypeScript projects, UI/UX design and engineering, and open-source contributions.
 
 <br/>
 
-### Kontakt
-GitHub: github.com/Mekintosz<br/>
-Portfolio: mlazicki.pl<br/>
-E-mail: contact@mlazicki.pl<br/>
+### Kontakt / Contact
+**GitHub:** [github.com/Mekintosz](https://github.com/Mekintosz)  
+**Portfolio:** [mlazicki.pl](https://mlazicki.pl)  
+**E-mail:** contact@mlazicki.pl
 
+<br/>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mekintosz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekintosz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mekintosz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
