@@ -27,10 +27,3 @@ JavaScript • TypeScript • React • Vanilla JS • Tailwind CSS • SCSS •
 
 ### Collaboration
 Open to collaborating on React/TypeScript projects, UI/UX design and engineering, and open-source contributions.
-
-<br/>
-
-### Kontakt / Contact
-**GitHub:** [github.com/Mekintosz](https://github.com/Mekintosz)  
-**Portfolio:** [mlazicki.pl](https://mlazicki.pl)  
-**E-mail:** contact@mlazicki.pl
